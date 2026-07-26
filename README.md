@@ -1,1 +1,1 @@
-# cloudflare worker lofi auth (Template)
+# Cloudflare worker cloudflare-worker-authentication-template (Template)
