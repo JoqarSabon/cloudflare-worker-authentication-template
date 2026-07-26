@@ -1,1 +1,1 @@
-# Cloudflare worker cloudflare-worker-authentication-template (Template)
+# Cloudflare worker authentication (Template)
