@@ -2,7 +2,7 @@ export default {
   async fetch(request) {
     const url = new URL(request.url);
 
-    if (url.pathname === '/live/play.html' && url.searchParams.get('id') === 'lofi') {
+    if (url.pathname === '{Path_name}' && url.searchParams.get('id') === '{ID}') {
       
       const PASSWORD = '{Your_Password}';
       const COOKIE_NAME = 'lofi_unlocked';
