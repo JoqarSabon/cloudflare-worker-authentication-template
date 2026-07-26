@@ -1,2 +1,1 @@
-# cloudflare-worker-lofi-auth-template
-template
+# cloudflare worker lofi auth (Template)
